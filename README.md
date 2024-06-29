@@ -1,3 +1,5 @@
 # Disease-Prediction
-jupitor notebook project- related to machine Learning Algorithms
+jupitor notebook project- 
+Related to machine Learning Algorithms using python language
 Its working with Pre-trained data
+
